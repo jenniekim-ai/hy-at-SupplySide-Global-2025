@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>hy | SupplySide Global 2025 – Booth #7773</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700;800&display=swap" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Inter', sans-serif;
+        }
+        .card-section {
+            margin-top: 1rem;
+            padding-top: 1rem;
+            border-top: 1px solid #e5e7eb;
+        }
+    </style>
+</head>
+
+<body class="bg-gray-50 text-gray-800">
+
+    <!-- Header Section -->
+    <header class="bg-gradient-to-br from-blue-900 to-cyan-600 text-white text-center py-12 px-6">
+        <div class="max-w-4xl mx-auto">
+            <img src="https://www.hy.co.kr/images/kr/contents/ci-overview-visual-3.png" alt="hy Logo" class="h-24 mx-auto mb-6">
+            <h1 class="text-4xl md:text-5xl font-extrabold mb-3">Meet <strong>hy</strong> at SupplySide Global 2025</h1>
+            <p class="text-xl text-blue-100 mb-2">📍 Booth #7773 | October 29–30 | Las Vegas, USA</p>
+            <p class="text-lg text-blue-200">Clinically Proven Probiotics & Natural Extracts</p>
+        </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto p-5 sm:p-8">
+        
+        <!-- About Section -->
+        <section class="text-center my-12">
+            <h2 class="text-3xl md:text-4xl font-bold text-blue-900 mb-4">✨ About hy</h2>
+            <p class="max-w-3xl mx-auto text-gray-600 leading-relaxed">
+                Founded in 1969, hyLabs is a pioneer in health functional ingredients, specializing in clinically proven probiotics and natural extracts. As the R&BD research center of hy, hyLabs builds on over five decades of expertise in microbiology and fermentation.
+            </p>
+        </section>
+
+        <!-- Ingredients List Section -->
+        <section class="mb-12">
+             <div class="bg-white rounded-xl shadow-lg hover:shadow-2xl transition-shadow duration-300 p-8 max-w-2xl mx-auto text-center">
+                <h3 class="text-2xl font-bold text-cyan-700 mb-3">0️⃣ Ingredients List</h3>
+                <p class="text-gray-600 mb-6">A comprehensive list of all our available ingredients.</p>
+                <a href="https://drive.google.com/file/d/1l3qPAsqQV1-5SFjzs4wttJwYnieq5Le5/view?usp=sharing" target="_blank" class="inline-block bg-cyan-500 text-white font-bold py-3 px-8 rounded-lg hover:bg-cyan-600 transition-colors text-lg">Open Brochure</a>
+            </div>
+        </section>
+
+        <!-- Ingredients Grid -->
+        <section class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+            
+            <!-- Card 1: SkinCare Probiotic -->
+            <div class="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 p-6 flex flex-col">
+                <h3 class="text-xl font-bold text-blue-900 mb-3">1️⃣ SkinCare Probiotic</h3>
+                <p class="text-gray-600 mb-4 flex-grow"><strong>Benefits:</strong> Skin Moisturizing, Elasticity, Gloss, Anti-Wrinkle.</p>
+                <div class="flex flex-wrap gap-2">
+                    <a href="https://drive.google.com/file/d/1QuvEgMmcmz4HMnZAj5y1t20lhxqWhCQc/view?usp=sharing" target="_blank" class="bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors text-sm">Brochure</a>
+                    <a href="http://dx.doi.org/10.4014/jmb.1509.09021" target="_blank" class="bg-gray-200 text-gray-700 font-semibold py-2 px-4 rounded-lg hover:bg-gray-300 transition-colors text-sm">1st Clinical</a>
+                    <a href="https://doi.org/10.1371/journal.pone.0231268" target="_blank" class="bg-gray-200 text-gray-700 font-semibold py-2 px-4 rounded-lg hover:bg-gray-300 transition-colors text-sm">2nd Clinical</a>
+                    <a href="https://www.supplysidesj.com/supplements/first-probiotic-recognized-for-skin-moisturization-in-korea-supports-glowing-skin-through-gut-health-white-paper" target="_blank" class="bg-gray-200 text-gray-700 font-semibold py-2 px-4 rounded-lg hover:bg-gray-300 transition-colors text-sm">White Paper</a>
+                </div>
+                <div class="card-section">
+                    <h4 class="font-semibold text-gray-700 mb-2 text-sm">Commercial Product</h4>
+                    <div class="flex flex-wrap gap-2">
+                         <a href="https://www.esthermall.co.kr/goods/goods_view.php?goodsNo=10011" target="_blank" class="bg-teal-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-teal-700 transition-colors text-sm">Capsule</a>
+                    </div>
+                </div>
+            </div>
+            
+            <!-- Card 2: FatSlim Probiotics -->
+            <div class="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 p-6 flex flex-col">
+                <h3 class="text-xl font-bold text-blue-900 mb-3">2️⃣ FatSlim Probiotics</h3>
+                <p class="text-gray-600 mb-4 flex-grow"><strong>Benefits:</strong> Weight & Fat Loss, Hormone Balance, Gut Microbiome Modulation.</p>
+                <div class="flex flex-wrap gap-2">
+                    <a href="https://drive.google.com/file/d/1YkH9bY7m5072y6AwEYHDPiGFyRNqQSkd/view?usp=sharing" target="_blank" class="bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors text-sm">Brochure</a>
+                    <a href="https://doi.org/10.3390/nu14122484" target="_blank" class="bg-gray-200 text-gray-700 font-semibold py-2 px-4 rounded-lg hover:bg-gray-300 transition-colors text-sm">1st Clinical</a>
+                    <a href="http://dx.doi.org/10.1016/j.jff.2015.10.006" target="_blank" class="bg-gray-200 text-gray-700 font-semibold py-2 px-4 rounded-lg hover:bg-gray-300 transition-colors text-sm">2nd Clinical</a>
+                </div>
+                 <div class="card-section">
+                    <h4 class="font-semibold text-gray-700 mb-2 text-sm">Commercial Products</h4>
+                    <div class="flex flex-wrap gap-2">
+                         <a href="https://food-ology.co.kr/product/콜레올로지-컷-다이어트-유산균/1213/category/26/display/1/" target="_blank" class="bg-teal-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-teal-700 transition-colors text-sm">Capsule</a>
+                         <a href="https://pronutrition.co.kr/product/detail.html?product_no=38&cate_no=1&display_group=2" target="_blank" class="bg-teal-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-teal-700 transition-colors text-sm">Stick Powder</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 3: Immune Boosting Probiotic -->
+            <div class="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 p-6 flex flex-col">
+                <h3 class="text-xl font-bold text-blue-900 mb-3">3️⃣ Immune Boosting Probiotic</h3>
+                <p class="text-gray-600 mb-4 flex-grow"><strong>Benefits:</strong> Immune Modulation, Microbial Defense.</p>
+                <div class="mt-auto">
+                    <a href="https://drive.google.com/file/d/1Np2jt3rEiIyJG1Is0rtHC6CS0gziZf2V/view?usp=sharing" target="_blank" class="bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors text-sm">Brochure</a>
+                </div>
+                <div class="card-section">
+                    <h4 class="font-semibold text-gray-700 mb-2 text-sm">Commercial Product</h4>
+                    <div class="flex flex-wrap gap-2">
+                         <a href="https://m.fredit.co.kr/product/detail?prdId=5210" target="_blank" class="bg-teal-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-teal-700 transition-colors text-sm">Capsule</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 4: Mulberry Leaf Extract -->
+            <div class="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 p-6 flex flex-col">
+                <h3 class="text-xl font-bold text-blue-900 mb-3">4️⃣ Mulberry Leaf Extract</h3>
+                <p class="text-gray-600 mb-4 flex-grow"><strong>Benefits:</strong> Gastro Health, Relieves Stomach Discomfort.</p>
+                <div class="flex flex-wrap gap-2">
+                    <a href="https://drive.google.com/file/d/1zg6J0lveP7GDBhguh8gM8hMh8XNk6gQM/view?usp=sharing" target="_blank" class="bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors text-sm">Brochure</a>
+                    <a href="https://doi.org/10.3390/jcm10225323" target="_blank" class="bg-gray-200 text-gray-700 font-semibold py-2 px-4 rounded-lg hover:bg-gray-300 transition-colors text-sm">Clinical</a>
+                </div>
+                 <div class="card-section">
+                    <h4 class="font-semibold text-gray-700 mb-2 text-sm">Commercial Product</h4>
+                    <div class="flex flex-wrap gap-2">
+                         <a href="https://www.ssg.com/item/itemView.ssg?itemId=1000359736785" target="_blank" class="bg-teal-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-teal-700 transition-colors text-sm">Product Link</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 5: Ice Plant Complex -->
+            <div class="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 p-6 flex flex-col">
+                <h3 class="text-xl font-bold text-blue-900 mb-3">5️⃣ Ice Plant Complex</h3>
+                <p class="text-gray-600 mb-4 flex-grow"><strong>Benefits:</strong> Hangover Relief, Rapid Effect within 15 minutes.</p>
+                <div class="flex flex-wrap gap-2">
+                    <a href="https://drive.google.com/file/d/1ZuzK3TmG04kFTznl7zKbTGgtPCZELfQ3/view?usp=sharing" target="_blank" class="bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors text-sm">Brochure</a>
+                    <a href="https://doi.org/10.3390/jcm12165244" target="_blank" class="bg-gray-200 text-gray-700 font-semibold py-2 px-4 rounded-lg hover:bg-gray-300 transition-colors text-sm">Clinical</a>
+                </div>
+                 <div class="card-section">
+                    <h4 class="font-semibold text-gray-700 mb-2 text-sm">Commercial Products</h4>
+                    <div class="flex flex-wrap gap-2">
+                         <a href="https://www.dknutrition.co.kr/product/detail.html?product_no=575&cate_no=304&display_group=1" target="_blank" class="bg-teal-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-teal-700 transition-colors text-sm">Oral Film</a>
+                         <a href="https://www.oliveyoung.co.kr/store/goods/getGoodsDetail.do?goodsNo=A000000214980" target="_blank" class="bg-teal-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-teal-700 transition-colors text-sm">Gummy</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Card 6: Tiger Lily Bulb Extract -->
+            <div class="bg-white rounded-xl shadow-md hover:shadow-xl transition-shadow duration-300 p-6 flex flex-col">
+                <h3 class="text-xl font-bold text-blue-900 mb-3">6️⃣ Tiger Lily Bulb Extract</h3>
+                <p class="text-gray-600 mb-4 flex-grow"><strong>Benefits:</strong> Joint Health, Anti-Inflammation.</p>
+                <div class="flex flex-wrap gap-2">
+                    <a href="https://drive.google.com/file/d/1b3ZOaUzcJUR5s3DlWW3YRw35hgV-8WRo/view?usp=sharing" target="_blank" class="bg-blue-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-blue-700 transition-colors text-sm">Brochure</a>
+                    <a href="https://doi.org/10.3390/life14091136" target="_blank" class="bg-gray-200 text-gray-700 font-semibold py-2 px-4 rounded-lg hover:bg-gray-300 transition-colors text-sm">Clinical</a>
+                </div>
+                 <div class="card-section">
+                    <h4 class="font-semibold text-gray-700 mb-2 text-sm">Commercial Products</h4>
+                    <div class="flex flex-wrap gap-2">
+                         <a href="https://www.fitpetmall.com/mall/products/1000042271?srsltid=AfmBOop1x9oiN46qDnGoHn6l24V9ye2elSkaOQ6pyqwy7eY7_s77AjzS" target="_blank" class="bg-teal-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-teal-700 transition-colors text-sm">Powder</a>
+                         <a href="https://www.11st.co.kr/products/7583017908?gad_source=4&gad_campaignid=21023852543&gclid=Cj0KCQjwjL3HBhCgARIsAPUg7a42WLYuNdPGVNrklhF7lS7T-RLIv4LyoVOjmo07HKz_SPu4fFTzxlMaAt2yEALw_wcB&gbraid=0AAAAADQ_R8IBos85k0S0rDfWa4BMfgV-o&utm_term=&utm_campaign=googleshopping_pc_basic_new&utm_source=%B1%B8%B1%DB_PC_S_%BC%EE%C7%CE&utm_medium=%B0%CB%BB%F6" target="_blank" class="bg-teal-600 text-white font-semibold py-2 px-4 rounded-lg hover:bg-teal-700 transition-colors text-sm">Drink</a>
+                    </div>
+                </div>
+            </div>
+
+        </section>
+
+        <!-- Contact Section -->
+        <section class="text-center my-16">
+            <h2 class="text-3xl md:text-4xl font-bold text-blue-900 mb-4">📬 Visit Us at Booth #7773</h2>
+            <p class="max-w-3xl mx-auto text-gray-600 leading-relaxed">
+                We welcome all business partners, R&D professionals, and ingredient formulators. Let’s discuss new collaborations and clinical-backed innovation opportunities.
+            </p>
+            <p class="mt-4">
+                Contact: <a href="mailto:hylabs@hy.co.kr" class="text-blue-600 font-semibold hover:underline">hylabs@hy.co.kr</a>
+            </p>
+        </section>
+
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-gray-100 border-t border-gray-200">
+        <div class="max-w-6xl mx-auto text-center py-6 px-5">
+             <img src="https://www.hy.co.kr/images/kr/contents/ci-overview-visual-3.png" alt="hy Logo" class="h-12 mx-auto mb-4">
+            <p class="text-gray-500">© 2025 hy. All rights reserved. | Booth #7773 | SupplySide Global, Las Vegas</p>
+        </div>
+    </footer>
+
+</body>
+</html>
+
